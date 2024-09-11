@@ -1,0 +1,5 @@
+# Media files
+*.kra
+
+# Cache files
+*.*~

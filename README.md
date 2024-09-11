@@ -188,7 +188,7 @@ The **vertex shader** are shader programs that modify the geometry of the primit
 - [Vertex shader vs Fragment Shader [duplicate] - Stack Overflow](https://stackoverflow.com/questions/4421261/vertex-shader-vs-fragment-shader)
 - [ARKit Theory: Vertices, Metal Shaders, UV Mapping and SCNProgram’s.](https://www.delasign.com/blog/arkittheoryverticesandshaders/)
 - [Vertex Processing - Explaining basic 3D theory - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Basic_theory#vertex_processing)
-- [Volume of Cuboid - Formula and Examples - geeksforgeeks](https://www.geeksforgeeks.org/volume-of-cuboid/)
+- [Volume of Cuboid - Formula and Examples - GeeksforGeeks](https://www.geeksforgeeks.org/volume-of-cuboid/)
 - [Clipping Volume](https://mxrap.com/dev_docs/ClippingVolume.html#:~:text=Clipping%20Volumes%20define%20present%20volumes,be%20anything%20the%20user%20desires.)
 - [OpenGL Tutorial An Introduction on OpenGL with 2D Graphics](https://www3.ntu.edu.sg/home/ehchua/Programming/opengl/CG_Introduction.html)
 

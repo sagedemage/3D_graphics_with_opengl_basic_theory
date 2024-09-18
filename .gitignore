@@ -3,3 +3,6 @@
 
 # Cache files
 *.*~
+
+# Ruby bundle directories and files
+_site/
